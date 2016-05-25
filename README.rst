@@ -27,11 +27,13 @@ Biology
 * `1000 Genomes <http://www.1000genomes.org/data>`_
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
 * `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
+* `Broad Bioimage Benchmark Collection (BBBC) <https://www.broadinstitute.org/bbbc>`_
 * `Cell Image Library <http://www.cellimagelibrary.org>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
 * `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
 * `EBI Protein Data Bank in Europe <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
+* `Electron Microscopy Pilot Image Archive (EMPIAR) <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_
 * `ENCODE project <https://www.encodeproject.org>`_
 * `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
@@ -206,6 +208,7 @@ Finance
 * `Quandl <https://www.quandl.com/>`_
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
+* `NYSE Market Data <ftp://ftp.nyxdata.com>`_
 
 
 Geology
