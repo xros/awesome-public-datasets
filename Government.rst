@@ -1,6 +1,8 @@
 Government
 ----------
 
+* `EveryPolitician, ongoing project collating and sharing data on every politician. <http://everypolitician.org/>`_
+
 * `Alberta, Province of Canada <http://open.alberta.ca>`_
 * `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
 * `Argentina (non official) <http://datar.noip.me/>`_
@@ -85,6 +87,7 @@ Government
 * `Texas Open Data <https://data.texas.gov/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
 * `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
+* `Tunisia <http://www.data.gov.tn/>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
 * `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
@@ -95,6 +98,7 @@ Government
 * `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
 * `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
+* `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
 * `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_
 * `United Nations <http://data.un.org/>`_
 * `Uruguay <https://catalogodatos.gub.uy/>`_
